@@ -1,7 +1,7 @@
 # hello-world
 Test repo
 
-I am making an edit inside the readme-edits branch. What do you think?
+On 10/1/2015, I made this edit in readme-edits.
 
 Here is another one - ha ha!
 
